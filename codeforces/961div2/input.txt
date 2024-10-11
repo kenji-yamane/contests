@@ -1,0 +1,7 @@
+1
+4 4 4
+DCBA
+1 17 1
+Q
+9 3 2
+ABCABCABC
